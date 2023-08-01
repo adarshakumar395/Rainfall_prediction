@@ -1,1 +1,1 @@
-Rainfall prediction using machine learning , in this i have taken a wheather data set and applied machine learning algorithm like Random forest regression etc. After applying this I predict the result wheather rainfall will or not ?
+Rainfall prediction using machine learning , in this i have taken a wheather data set and applied machine learning algorithm like Random forest regression etc. After applying this I predict the result wheather rainfall will be or not ?
